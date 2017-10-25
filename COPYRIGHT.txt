@@ -32,6 +32,7 @@
 # Nota: When linking dynamically against thirdparty libraries instead of
 # building them into the Godot binary, you may remove the corresponding
 # license details from this file.
+#
 
 -----------------------------------------------------------------------
 
